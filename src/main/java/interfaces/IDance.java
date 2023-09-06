@@ -4,6 +4,6 @@ public interface IDance {
     String str = "i dance";
     void dancingTango();
     default void dancingSalsa(){
-        System.out.println("Dancing salsa");
+        System.out.println("Dancingsalsa");
     }
 }
